@@ -9,11 +9,11 @@ Overview of (a) TINN and the two key blocks: (b) the Atmospheric Transmission Mo
 
 <img src="figures/transmission.png" width="500" alt="transmission"/><br/>
 
-Attenuation of thermal infrared light traveled through the air is primarily composed of absorption and scattering. The transmission is exponentially decreased by the distance $d$ between the object to the camera.
+**ATM module:** Attenuation of thermal infrared light traveled through the air is primarily composed of absorption and scattering. The transmission is exponentially decreased by the distance $d$ between the object to the camera.
 
 <img src="figures/thermalinertia.png" width="500" alt="thermalinertia"/><br/>
 
-The thermal microbolometer detects incident radiation by measuring the electrical resistance. The incident radiation is captured by the membrane of the microbolometer. A change in electrical resistance between the membrane and the substrate determines the recorded intensity, which in turn is used to generate the final thermal image. This process is impacted by the thermal inertia effect of the microbolometer. This effect can be modeled by parameterizing the thermal conductivity, thermal capacitance and the absorptivity of the microbolometer.
+**TIM module:** The thermal microbolometer detects incident radiation by measuring the electrical resistance. The incident radiation is captured by the membrane of the microbolometer. A change in electrical resistance between the membrane and the substrate determines the recorded intensity, which in turn is used to generate the final thermal image. This process is impacted by the thermal inertia effect of the microbolometer. This effect can be modeled by parameterizing the thermal conductivity, thermal capacitance and the absorptivity of the microbolometer.
 
 Dataset
 -
