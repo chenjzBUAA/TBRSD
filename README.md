@@ -1,6 +1,6 @@
 Official implementation of the paper "Atmospheric Transmission and Thermal Inertia Induced Blind Road Segmentation with a Large-Scale Dataset TBRSD"
 =
-Framework of out method
+Framework of our method
 -
 
 <img src="figures/framework.png" alt="framework"/><br/>
