@@ -32,7 +32,7 @@ To set up the environment, follow the steps below. Please choose the appropriate
 
 ## Usage
 ### Pretrained Weights
-Please download the pretrained model [mit_b5.pth](https://connecthkuhk-my.sharepoint.com/personal/xieenze_connect_hku_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxieenze%5Fconnect%5Fhku%5Fhk%2FDocuments%2Fsegformer%2Fpretrained%5Fmodels&ga=1) from the provided link and place it in the pretrained folder.
+Please download the pretrained model [mit_b5.pth](https://connecthkuhk-my.sharepoint.com/personal/xieenze_connect_hku_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fxieenze%5Fconnect%5Fhku%5Fhk%2FDocuments%2Fsegformer%2Fpretrained%5Fmodels&ga=1) (provided by [SegFormer](https://github.com/NVlabs/SegFormer)) from the provided link and place it in the pretrained folder.
 ### Training
 
 To train the model, use the following command:
